@@ -1,5 +1,5 @@
 # Seismology
-A collection of small projects on earthquakes using GMT and Python
+A collection of small projects on earthquakes using GMT and Python. Look at final ppt.pdf for the results.
 
 Cluster the earthquakes in space and compute b-values (https://www.wikiwand.com/en/Gutenberg%E2%80%93Richter_law) for each cluster.
 
